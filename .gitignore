@@ -1,0 +1,15 @@
+.DS_store
+.vscode/*
+*/objs/*
+*.o
+freefps
+DoomEditor
+DoomNukem
+checksum.dSYM/
+.idea/
+cmake-build-debug/
+engine/objs/
+game/objs/
+editor/objs/
+doom_editor
+wolf3d
